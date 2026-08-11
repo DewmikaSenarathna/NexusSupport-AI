@@ -1,0 +1,601 @@
+ticket_id,text,category,urgency
+1,I was charged twice for my Enterprise subscription this month.,billing,low
+2,Can you explain the extra charge on my last bill?,billing,low
+3,"My invoice for May shows the wrong amount, can you check?",billing,medium
+4,What are your business hours for support on Web?,general,medium
+5,"My invoice for March shows the wrong amount, can you check?",billing,low
+6,I forgot my password and the reset email never arrives.,account,low
+7,Can I merge two accounts under one email?,account,medium
+8,Does your Enterprise plan include priority support?,general,medium
+9,I was charged twice for my Pro subscription this month.,billing,high
+10,The payment failed but money was still deducted from my card.,billing,low
+11,How do I change the email linked to my account?,account,medium
+12,The dashboard is loading extremely slowly today.,technical,medium
+13,The API is returning a 500 error when I call the /users endpoint.,technical,high
+14,"I love the product, just wanted to say thanks!",general,low
+15,Do you have a public roadmap for upcoming features?,general,low
+16,Can I merge two accounts under one email?,account,low
+17,The dashboard is loading extremely slowly today.,technical,high
+18,"I can't log in, it says 'server error' every time on iOS.",technical,medium
+19,Is there a student discount available?,general,medium
+20,Can you explain the extra charge on my last bill?,billing,low
+21,What are your business hours for support on Web?,general,high
+22,The dashboard is loading extremely slowly today.,technical,high
+23,"I can't log in, it says 'server error' every time on iOS.",technical,medium
+24,Does your Basic plan include priority support?,general,low
+25,The dashboard is loading extremely slowly today.,technical,high
+26,"I can't log in, it says 'server error' every time on Android.",technical,medium
+27,What are your business hours for support on Web?,general,low
+28,My account got locked after too many login attempts.,account,low
+29,I forgot my password and the reset email never arrives.,account,low
+30,"My invoice for January shows the wrong amount, can you check?",billing,low
+31,The API is returning a 500 error when I call the /users endpoint.,technical,high
+32,What are your business hours for support on Android?,general,low
+33,"I love the product, just wanted to say thanks!",general,high
+34,I was charged twice for my Basic subscription this month.,billing,high
+35,"My invoice for February shows the wrong amount, can you check?",billing,low
+36,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+37,I was charged twice for my Basic subscription this month.,billing,low
+38,Do you have a public roadmap for upcoming features?,general,low
+39,The payment failed but money was still deducted from my card.,billing,medium
+40,What are your business hours for support on Android?,general,high
+41,"I want a refund for the Basic plan, it was charged by mistake.",billing,medium
+42,The app keeps crashing when I try to upload a file on iOS.,technical,medium
+43,Sync between devices is not working since the last update.,technical,medium
+44,Can you explain the extra charge on my last bill?,billing,high
+45,The API is returning a 500 error when I call the /users endpoint.,technical,low
+46,My account got locked after too many login attempts.,account,low
+47,I was charged twice for my Pro subscription this month.,billing,low
+48,I forgot my password and the reset email never arrives.,account,low
+49,Can I merge two accounts under one email?,account,high
+50,"My invoice for January shows the wrong amount, can you check?",billing,high
+51,The API is returning a 500 error when I call the /users endpoint.,technical,high
+52,The API is returning a 500 error when I call the /users endpoint.,technical,low
+53,"I love the product, just wanted to say thanks!",general,medium
+54,How do I change the email linked to my account?,account,medium
+55,I was charged twice for my Pro subscription this month.,billing,high
+56,Sync between devices is not working since the last update.,technical,medium
+57,"I want a refund for the Pro plan, it was charged by mistake.",billing,high
+58,Can I merge two accounts under one email?,account,high
+59,"I can't log in, it says 'server error' every time on iOS.",technical,low
+60,My account got locked after too many login attempts.,account,medium
+61,The payment failed but money was still deducted from my card.,billing,low
+62,"I love the product, just wanted to say thanks!",general,low
+63,Sync between devices is not working since the last update.,technical,high
+64,I want to delete my account and all my data permanently.,account,high
+65,"I want a refund for the Pro plan, it was charged by mistake.",billing,low
+66,"I love the product, just wanted to say thanks!",general,low
+67,The API is returning a 500 error when I call the /users endpoint.,technical,low
+68,The API is returning a 500 error when I call the /users endpoint.,technical,high
+69,"I want a refund for the Enterprise plan, it was charged by mistake.",billing,medium
+70,Can I merge two accounts under one email?,account,medium
+71,What are your business hours for support on iOS?,general,low
+72,Sync between devices is not working since the last update.,technical,medium
+73,The dashboard is loading extremely slowly today.,technical,high
+74,Can I merge two accounts under one email?,account,medium
+75,"I can't log in, it says 'server error' every time on iOS.",technical,medium
+76,Is there a student discount available?,general,high
+77,Sync between devices is not working since the last update.,technical,low
+78,I was charged twice for my Team subscription this month.,billing,high
+79,Does your Pro plan include priority support?,general,low
+80,Is there a student discount available?,general,medium
+81,What are your business hours for support on Web?,general,medium
+82,Can I merge two accounts under one email?,account,low
+83,"I want a refund for the Pro plan, it was charged by mistake.",billing,medium
+84,"My invoice for February shows the wrong amount, can you check?",billing,high
+85,The app keeps crashing when I try to upload a file on Web.,technical,medium
+86,Does your Pro plan include priority support?,general,high
+87,Can you explain the extra charge on my last bill?,billing,high
+88,My account got locked after too many login attempts.,account,low
+89,My account got locked after too many login attempts.,account,low
+90,What are your business hours for support on iOS?,general,high
+91,I was charged twice for my Team subscription this month.,billing,low
+92,My account got locked after too many login attempts.,account,low
+93,"I love the product, just wanted to say thanks!",general,low
+94,"I want a refund for the Pro plan, it was charged by mistake.",billing,high
+95,I was charged twice for my Pro subscription this month.,billing,high
+96,"I can't log in, it says 'server error' every time on iOS.",technical,medium
+97,Sync between devices is not working since the last update.,technical,high
+98,"My invoice for January shows the wrong amount, can you check?",billing,high
+99,Do you have a public roadmap for upcoming features?,general,low
+100,Can I merge two accounts under one email?,account,low
+101,"I love the product, just wanted to say thanks!",general,low
+102,Do you have a public roadmap for upcoming features?,general,medium
+103,What are your business hours for support on Web?,general,medium
+104,Do you have a public roadmap for upcoming features?,general,low
+105,The app keeps crashing when I try to upload a file on Android.,technical,high
+106,"I love the product, just wanted to say thanks!",general,low
+107,The API is returning a 500 error when I call the /users endpoint.,technical,high
+108,Can I merge two accounts under one email?,account,low
+109,Do you have a public roadmap for upcoming features?,general,medium
+110,Do you have a public roadmap for upcoming features?,general,low
+111,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+112,I want to delete my account and all my data permanently.,account,low
+113,"My invoice for January shows the wrong amount, can you check?",billing,low
+114,"I love the product, just wanted to say thanks!",general,low
+115,How do I change the email linked to my account?,account,low
+116,Can you explain the extra charge on my last bill?,billing,high
+117,Does your Basic plan include priority support?,general,low
+118,"I love the product, just wanted to say thanks!",general,high
+119,Does your Basic plan include priority support?,general,low
+120,"My invoice for May shows the wrong amount, can you check?",billing,low
+121,The app keeps crashing when I try to upload a file on Android.,technical,high
+122,Do you have a public roadmap for upcoming features?,general,low
+123,Can you explain the extra charge on my last bill?,billing,medium
+124,"My invoice for February shows the wrong amount, can you check?",billing,low
+125,Do you have a public roadmap for upcoming features?,general,low
+126,My account got locked after too many login attempts.,account,high
+127,Sync between devices is not working since the last update.,technical,high
+128,How do I change the email linked to my account?,account,medium
+129,My account got locked after too many login attempts.,account,medium
+130,Can I merge two accounts under one email?,account,medium
+131,"I love the product, just wanted to say thanks!",general,low
+132,"I want a refund for the Basic plan, it was charged by mistake.",billing,medium
+133,"I love the product, just wanted to say thanks!",general,medium
+134,Does your Team plan include priority support?,general,low
+135,"My invoice for April shows the wrong amount, can you check?",billing,medium
+136,Is there a student discount available?,general,low
+137,I forgot my password and the reset email never arrives.,account,medium
+138,Do you have a public roadmap for upcoming features?,general,medium
+139,Do you have a public roadmap for upcoming features?,general,medium
+140,My account got locked after too many login attempts.,account,high
+141,"I can't log in, it says 'server error' every time on iOS.",technical,medium
+142,"My invoice for April shows the wrong amount, can you check?",billing,high
+143,Sync between devices is not working since the last update.,technical,medium
+144,Do you have a public roadmap for upcoming features?,general,low
+145,The app keeps crashing when I try to upload a file on Web.,technical,high
+146,I forgot my password and the reset email never arrives.,account,medium
+147,What are your business hours for support on Desktop?,general,low
+148,Do you have a public roadmap for upcoming features?,general,medium
+149,Sync between devices is not working since the last update.,technical,high
+150,Do you have a public roadmap for upcoming features?,general,low
+151,I forgot my password and the reset email never arrives.,account,low
+152,Sync between devices is not working since the last update.,technical,high
+153,I want to delete my account and all my data permanently.,account,high
+154,"I love the product, just wanted to say thanks!",general,medium
+155,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+156,I was charged twice for my Team subscription this month.,billing,high
+157,"I want a refund for the Basic plan, it was charged by mistake.",billing,medium
+158,"I can't log in, it says 'server error' every time on Android.",technical,low
+159,Can you explain the extra charge on my last bill?,billing,medium
+160,"I can't log in, it says 'server error' every time on Web.",technical,medium
+161,The payment failed but money was still deducted from my card.,billing,low
+162,Can I merge two accounts under one email?,account,medium
+163,"I love the product, just wanted to say thanks!",general,low
+164,Is there a student discount available?,general,high
+165,I forgot my password and the reset email never arrives.,account,medium
+166,Can you explain the extra charge on my last bill?,billing,high
+167,How do I change the email linked to my account?,account,medium
+168,The app keeps crashing when I try to upload a file on Desktop.,technical,low
+169,How do I change the email linked to my account?,account,medium
+170,"I can't log in, it says 'server error' every time on Web.",technical,medium
+171,How do I change the email linked to my account?,account,medium
+172,I forgot my password and the reset email never arrives.,account,medium
+173,Sync between devices is not working since the last update.,technical,low
+174,The payment failed but money was still deducted from my card.,billing,medium
+175,I forgot my password and the reset email never arrives.,account,medium
+176,Can I merge two accounts under one email?,account,medium
+177,"I love the product, just wanted to say thanks!",general,low
+178,"I want a refund for the Team plan, it was charged by mistake.",billing,medium
+179,Sync between devices is not working since the last update.,technical,medium
+180,Sync between devices is not working since the last update.,technical,high
+181,I forgot my password and the reset email never arrives.,account,low
+182,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+183,I forgot my password and the reset email never arrives.,account,high
+184,Does your Pro plan include priority support?,general,low
+185,How do I change the email linked to my account?,account,low
+186,The dashboard is loading extremely slowly today.,technical,high
+187,"I want a refund for the Pro plan, it was charged by mistake.",billing,high
+188,I was charged twice for my Pro subscription this month.,billing,high
+189,The dashboard is loading extremely slowly today.,technical,medium
+190,Sync between devices is not working since the last update.,technical,medium
+191,Can I merge two accounts under one email?,account,high
+192,Can you explain the extra charge on my last bill?,billing,low
+193,Do you have a public roadmap for upcoming features?,general,low
+194,Does your Basic plan include priority support?,general,low
+195,Can I merge two accounts under one email?,account,low
+196,Does your Basic plan include priority support?,general,low
+197,Sync between devices is not working since the last update.,technical,medium
+198,"I want a refund for the Team plan, it was charged by mistake.",billing,medium
+199,Sync between devices is not working since the last update.,technical,low
+200,"I want a refund for the Pro plan, it was charged by mistake.",billing,medium
+201,I forgot my password and the reset email never arrives.,account,high
+202,"I want a refund for the Enterprise plan, it was charged by mistake.",billing,medium
+203,"I can't log in, it says 'server error' every time on iOS.",technical,medium
+204,I forgot my password and the reset email never arrives.,account,medium
+205,Can you explain the extra charge on my last bill?,billing,medium
+206,I want to delete my account and all my data permanently.,account,high
+207,Does your Pro plan include priority support?,general,low
+208,Sync between devices is not working since the last update.,technical,low
+209,I want to delete my account and all my data permanently.,account,low
+210,I was charged twice for my Enterprise subscription this month.,billing,medium
+211,Do you have a public roadmap for upcoming features?,general,low
+212,"I want a refund for the Team plan, it was charged by mistake.",billing,low
+213,Is there a student discount available?,general,low
+214,"I can't log in, it says 'server error' every time on Web.",technical,low
+215,Do you have a public roadmap for upcoming features?,general,medium
+216,The dashboard is loading extremely slowly today.,technical,high
+217,The payment failed but money was still deducted from my card.,billing,high
+218,Is there a student discount available?,general,low
+219,Does your Enterprise plan include priority support?,general,medium
+220,I forgot my password and the reset email never arrives.,account,low
+221,Is there a student discount available?,general,medium
+222,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+223,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+224,The API is returning a 500 error when I call the /users endpoint.,technical,high
+225,"My invoice for April shows the wrong amount, can you check?",billing,high
+226,I want to delete my account and all my data permanently.,account,low
+227,I want to delete my account and all my data permanently.,account,low
+228,Does your Basic plan include priority support?,general,low
+229,Can you explain the extra charge on my last bill?,billing,medium
+230,The API is returning a 500 error when I call the /users endpoint.,technical,high
+231,Does your Enterprise plan include priority support?,general,medium
+232,The app keeps crashing when I try to upload a file on Desktop.,technical,high
+233,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+234,Can I merge two accounts under one email?,account,low
+235,Can you explain the extra charge on my last bill?,billing,high
+236,The API is returning a 500 error when I call the /users endpoint.,technical,high
+237,My account got locked after too many login attempts.,account,low
+238,"I love the product, just wanted to say thanks!",general,medium
+239,Is there a student discount available?,general,low
+240,The API is returning a 500 error when I call the /users endpoint.,technical,high
+241,The app keeps crashing when I try to upload a file on iOS.,technical,high
+242,The dashboard is loading extremely slowly today.,technical,low
+243,Sync between devices is not working since the last update.,technical,high
+244,Sync between devices is not working since the last update.,technical,medium
+245,The API is returning a 500 error when I call the /users endpoint.,technical,high
+246,Do you have a public roadmap for upcoming features?,general,high
+247,The dashboard is loading extremely slowly today.,technical,high
+248,Can I merge two accounts under one email?,account,low
+249,The API is returning a 500 error when I call the /users endpoint.,technical,high
+250,"My invoice for March shows the wrong amount, can you check?",billing,medium
+251,Is there a student discount available?,general,high
+252,How do I change the email linked to my account?,account,medium
+253,How do I change the email linked to my account?,account,high
+254,What are your business hours for support on iOS?,general,high
+255,"I want a refund for the Pro plan, it was charged by mistake.",billing,low
+256,How do I change the email linked to my account?,account,low
+257,Does your Basic plan include priority support?,general,medium
+258,"I can't log in, it says 'server error' every time on iOS.",technical,high
+259,The dashboard is loading extremely slowly today.,technical,medium
+260,I forgot my password and the reset email never arrives.,account,low
+261,"I love the product, just wanted to say thanks!",general,low
+262,"I want a refund for the Pro plan, it was charged by mistake.",billing,high
+263,How do I change the email linked to my account?,account,medium
+264,Sync between devices is not working since the last update.,technical,high
+265,The payment failed but money was still deducted from my card.,billing,low
+266,The app keeps crashing when I try to upload a file on Desktop.,technical,high
+267,"I love the product, just wanted to say thanks!",general,low
+268,"I want a refund for the Enterprise plan, it was charged by mistake.",billing,medium
+269,Do you have a public roadmap for upcoming features?,general,low
+270,"I love the product, just wanted to say thanks!",general,low
+271,The dashboard is loading extremely slowly today.,technical,low
+272,I want to delete my account and all my data permanently.,account,low
+273,"I love the product, just wanted to say thanks!",general,medium
+274,"I love the product, just wanted to say thanks!",general,low
+275,The app keeps crashing when I try to upload a file on Desktop.,technical,low
+276,"My invoice for March shows the wrong amount, can you check?",billing,high
+277,Can you explain the extra charge on my last bill?,billing,high
+278,My account got locked after too many login attempts.,account,medium
+279,"I love the product, just wanted to say thanks!",general,low
+280,Sync between devices is not working since the last update.,technical,medium
+281,My account got locked after too many login attempts.,account,medium
+282,What are your business hours for support on iOS?,general,low
+283,Does your Enterprise plan include priority support?,general,medium
+284,I want to delete my account and all my data permanently.,account,medium
+285,The app keeps crashing when I try to upload a file on Android.,technical,high
+286,"I want a refund for the Enterprise plan, it was charged by mistake.",billing,high
+287,I was charged twice for my Enterprise subscription this month.,billing,medium
+288,Is there a student discount available?,general,medium
+289,Do you have a public roadmap for upcoming features?,general,medium
+290,Sync between devices is not working since the last update.,technical,medium
+291,The API is returning a 500 error when I call the /users endpoint.,technical,high
+292,How do I change the email linked to my account?,account,medium
+293,Can you explain the extra charge on my last bill?,billing,low
+294,Can I merge two accounts under one email?,account,low
+295,How do I change the email linked to my account?,account,low
+296,I want to delete my account and all my data permanently.,account,low
+297,I was charged twice for my Pro subscription this month.,billing,medium
+298,The API is returning a 500 error when I call the /users endpoint.,technical,high
+299,My account got locked after too many login attempts.,account,low
+300,Does your Enterprise plan include priority support?,general,low
+301,"I want a refund for the Team plan, it was charged by mistake.",billing,medium
+302,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+303,Do you have a public roadmap for upcoming features?,general,low
+304,Is there a student discount available?,general,medium
+305,I was charged twice for my Enterprise subscription this month.,billing,medium
+306,I was charged twice for my Team subscription this month.,billing,high
+307,"I love the product, just wanted to say thanks!",general,medium
+308,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+309,Can I merge two accounts under one email?,account,low
+310,Can I merge two accounts under one email?,account,medium
+311,Is there a student discount available?,general,low
+312,My account got locked after too many login attempts.,account,low
+313,How do I change the email linked to my account?,account,medium
+314,Is there a student discount available?,general,low
+315,The payment failed but money was still deducted from my card.,billing,medium
+316,Can I merge two accounts under one email?,account,medium
+317,The dashboard is loading extremely slowly today.,technical,low
+318,"My invoice for April shows the wrong amount, can you check?",billing,medium
+319,What are your business hours for support on Desktop?,general,high
+320,"My invoice for May shows the wrong amount, can you check?",billing,high
+321,Is there a student discount available?,general,low
+322,Can I merge two accounts under one email?,account,medium
+323,"I can't log in, it says 'server error' every time on Web.",technical,medium
+324,I want to delete my account and all my data permanently.,account,low
+325,Can I merge two accounts under one email?,account,medium
+326,Do you have a public roadmap for upcoming features?,general,low
+327,"I want a refund for the Team plan, it was charged by mistake.",billing,high
+328,"I can't log in, it says 'server error' every time on Web.",technical,low
+329,"I can't log in, it says 'server error' every time on Android.",technical,high
+330,I was charged twice for my Team subscription this month.,billing,low
+331,The app keeps crashing when I try to upload a file on Desktop.,technical,medium
+332,The API is returning a 500 error when I call the /users endpoint.,technical,high
+333,Can you explain the extra charge on my last bill?,billing,high
+334,Sync between devices is not working since the last update.,technical,high
+335,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+336,"I want a refund for the Enterprise plan, it was charged by mistake.",billing,high
+337,The dashboard is loading extremely slowly today.,technical,high
+338,How do I change the email linked to my account?,account,medium
+339,"I want a refund for the Enterprise plan, it was charged by mistake.",billing,low
+340,Do you have a public roadmap for upcoming features?,general,medium
+341,"I can't log in, it says 'server error' every time on Android.",technical,low
+342,What are your business hours for support on Web?,general,low
+343,"I want a refund for the Enterprise plan, it was charged by mistake.",billing,low
+344,The payment failed but money was still deducted from my card.,billing,high
+345,I forgot my password and the reset email never arrives.,account,low
+346,Sync between devices is not working since the last update.,technical,medium
+347,Is there a student discount available?,general,medium
+348,I forgot my password and the reset email never arrives.,account,medium
+349,"I can't log in, it says 'server error' every time on Desktop.",technical,low
+350,The dashboard is loading extremely slowly today.,technical,high
+351,What are your business hours for support on iOS?,general,medium
+352,I forgot my password and the reset email never arrives.,account,medium
+353,I was charged twice for my Team subscription this month.,billing,medium
+354,I was charged twice for my Team subscription this month.,billing,medium
+355,Sync between devices is not working since the last update.,technical,high
+356,Do you have a public roadmap for upcoming features?,general,medium
+357,I forgot my password and the reset email never arrives.,account,medium
+358,The app keeps crashing when I try to upload a file on Desktop.,technical,high
+359,Is there a student discount available?,general,low
+360,The API is returning a 500 error when I call the /users endpoint.,technical,low
+361,Is there a student discount available?,general,low
+362,The payment failed but money was still deducted from my card.,billing,medium
+363,The dashboard is loading extremely slowly today.,technical,medium
+364,How do I change the email linked to my account?,account,low
+365,The dashboard is loading extremely slowly today.,technical,medium
+366,Sync between devices is not working since the last update.,technical,high
+367,Is there a student discount available?,general,low
+368,My account got locked after too many login attempts.,account,low
+369,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+370,Is there a student discount available?,general,low
+371,I forgot my password and the reset email never arrives.,account,medium
+372,The app keeps crashing when I try to upload a file on iOS.,technical,high
+373,The dashboard is loading extremely slowly today.,technical,high
+374,I want to delete my account and all my data permanently.,account,high
+375,The payment failed but money was still deducted from my card.,billing,medium
+376,The dashboard is loading extremely slowly today.,technical,medium
+377,I want to delete my account and all my data permanently.,account,low
+378,"I love the product, just wanted to say thanks!",general,low
+379,"I can't log in, it says 'server error' every time on Desktop.",technical,medium
+380,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+381,I want to delete my account and all my data permanently.,account,low
+382,How do I change the email linked to my account?,account,low
+383,Can you explain the extra charge on my last bill?,billing,high
+384,What are your business hours for support on Android?,general,low
+385,"I love the product, just wanted to say thanks!",general,medium
+386,I was charged twice for my Team subscription this month.,billing,medium
+387,Can I merge two accounts under one email?,account,medium
+388,The app keeps crashing when I try to upload a file on Android.,technical,medium
+389,I want to delete my account and all my data permanently.,account,low
+390,Do you have a public roadmap for upcoming features?,general,low
+391,I was charged twice for my Basic subscription this month.,billing,medium
+392,Does your Basic plan include priority support?,general,low
+393,"I love the product, just wanted to say thanks!",general,low
+394,"I love the product, just wanted to say thanks!",general,high
+395,"My invoice for January shows the wrong amount, can you check?",billing,medium
+396,Does your Enterprise plan include priority support?,general,medium
+397,Is there a student discount available?,general,medium
+398,Can you explain the extra charge on my last bill?,billing,medium
+399,"I want a refund for the Team plan, it was charged by mistake.",billing,high
+400,Do you have a public roadmap for upcoming features?,general,low
+401,Does your Enterprise plan include priority support?,general,low
+402,Sync between devices is not working since the last update.,technical,medium
+403,I was charged twice for my Basic subscription this month.,billing,medium
+404,I forgot my password and the reset email never arrives.,account,low
+405,Does your Basic plan include priority support?,general,medium
+406,My account got locked after too many login attempts.,account,low
+407,Can you explain the extra charge on my last bill?,billing,high
+408,"I can't log in, it says 'server error' every time on Web.",technical,medium
+409,"My invoice for March shows the wrong amount, can you check?",billing,medium
+410,"I want a refund for the Enterprise plan, it was charged by mistake.",billing,medium
+411,Sync between devices is not working since the last update.,technical,low
+412,"I love the product, just wanted to say thanks!",general,low
+413,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+414,Sync between devices is not working since the last update.,technical,high
+415,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+416,The dashboard is loading extremely slowly today.,technical,high
+417,What are your business hours for support on iOS?,general,medium
+418,Do you have a public roadmap for upcoming features?,general,low
+419,Sync between devices is not working since the last update.,technical,high
+420,Is there a student discount available?,general,medium
+421,Can I merge two accounts under one email?,account,medium
+422,How do I change the email linked to my account?,account,high
+423,My account got locked after too many login attempts.,account,low
+424,Sync between devices is not working since the last update.,technical,high
+425,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+426,I was charged twice for my Pro subscription this month.,billing,medium
+427,The dashboard is loading extremely slowly today.,technical,low
+428,"I love the product, just wanted to say thanks!",general,medium
+429,I was charged twice for my Enterprise subscription this month.,billing,high
+430,"I can't log in, it says 'server error' every time on Android.",technical,medium
+431,Do you have a public roadmap for upcoming features?,general,low
+432,Do you have a public roadmap for upcoming features?,general,low
+433,Do you have a public roadmap for upcoming features?,general,low
+434,Can you explain the extra charge on my last bill?,billing,medium
+435,Sync between devices is not working since the last update.,technical,medium
+436,Can I merge two accounts under one email?,account,medium
+437,I want to delete my account and all my data permanently.,account,medium
+438,Can I merge two accounts under one email?,account,low
+439,The API is returning a 500 error when I call the /users endpoint.,technical,high
+440,Do you have a public roadmap for upcoming features?,general,low
+441,Is there a student discount available?,general,low
+442,"I can't log in, it says 'server error' every time on iOS.",technical,high
+443,The payment failed but money was still deducted from my card.,billing,high
+444,Do you have a public roadmap for upcoming features?,general,low
+445,Can you explain the extra charge on my last bill?,billing,low
+446,The dashboard is loading extremely slowly today.,technical,medium
+447,Is there a student discount available?,general,low
+448,Can I merge two accounts under one email?,account,medium
+449,Does your Pro plan include priority support?,general,low
+450,I forgot my password and the reset email never arrives.,account,low
+451,Can I merge two accounts under one email?,account,medium
+452,The app keeps crashing when I try to upload a file on Web.,technical,medium
+453,The API is returning a 500 error when I call the /users endpoint.,technical,high
+454,"My invoice for January shows the wrong amount, can you check?",billing,high
+455,"I can't log in, it says 'server error' every time on Web.",technical,high
+456,Do you have a public roadmap for upcoming features?,general,medium
+457,Do you have a public roadmap for upcoming features?,general,low
+458,I want to delete my account and all my data permanently.,account,medium
+459,The payment failed but money was still deducted from my card.,billing,medium
+460,What are your business hours for support on Web?,general,medium
+461,Can I merge two accounts under one email?,account,medium
+462,I was charged twice for my Basic subscription this month.,billing,low
+463,Sync between devices is not working since the last update.,technical,medium
+464,The API is returning a 500 error when I call the /users endpoint.,technical,high
+465,I forgot my password and the reset email never arrives.,account,low
+466,How do I change the email linked to my account?,account,medium
+467,"My invoice for January shows the wrong amount, can you check?",billing,medium
+468,Does your Basic plan include priority support?,general,medium
+469,What are your business hours for support on Android?,general,low
+470,I was charged twice for my Enterprise subscription this month.,billing,low
+471,"I can't log in, it says 'server error' every time on iOS.",technical,high
+472,Sync between devices is not working since the last update.,technical,high
+473,Sync between devices is not working since the last update.,technical,high
+474,The app keeps crashing when I try to upload a file on Desktop.,technical,medium
+475,"I can't log in, it says 'server error' every time on iOS.",technical,medium
+476,I forgot my password and the reset email never arrives.,account,medium
+477,I forgot my password and the reset email never arrives.,account,low
+478,Is there a student discount available?,general,high
+479,How do I change the email linked to my account?,account,low
+480,Sync between devices is not working since the last update.,technical,low
+481,The app keeps crashing when I try to upload a file on Web.,technical,high
+482,Do you have a public roadmap for upcoming features?,general,low
+483,I forgot my password and the reset email never arrives.,account,low
+484,"I want a refund for the Team plan, it was charged by mistake.",billing,low
+485,The payment failed but money was still deducted from my card.,billing,medium
+486,The app keeps crashing when I try to upload a file on Android.,technical,high
+487,Sync between devices is not working since the last update.,technical,low
+488,The API is returning a 500 error when I call the /users endpoint.,technical,high
+489,Can I merge two accounts under one email?,account,low
+490,I forgot my password and the reset email never arrives.,account,low
+491,I forgot my password and the reset email never arrives.,account,low
+492,"My invoice for April shows the wrong amount, can you check?",billing,medium
+493,"I can't log in, it says 'server error' every time on Desktop.",technical,medium
+494,Sync between devices is not working since the last update.,technical,medium
+495,Can you explain the extra charge on my last bill?,billing,high
+496,The payment failed but money was still deducted from my card.,billing,high
+497,I want to delete my account and all my data permanently.,account,low
+498,The API is returning a 500 error when I call the /users endpoint.,technical,medium
+499,What are your business hours for support on iOS?,general,high
+500,"My invoice for June shows the wrong amount, can you check?",billing,high
+501,The payment failed but money was still deducted from my card.,billing,medium
+502,Sync between devices is not working since the last update.,technical,high
+503,I was charged twice for my Pro subscription this month.,billing,high
+504,My account got locked after too many login attempts.,account,medium
+505,Does your Basic plan include priority support?,general,low
+506,I want to delete my account and all my data permanently.,account,low
+507,How do I change the email linked to my account?,account,medium
+508,"My invoice for February shows the wrong amount, can you check?",billing,medium
+509,Does your Enterprise plan include priority support?,general,low
+510,I forgot my password and the reset email never arrives.,account,medium
+511,"My invoice for February shows the wrong amount, can you check?",billing,high
+512,My account got locked after too many login attempts.,account,low
+513,The app keeps crashing when I try to upload a file on Android.,technical,low
+514,"My invoice for January shows the wrong amount, can you check?",billing,high
+515,"I can't log in, it says 'server error' every time on Web.",technical,high
+516,Can you explain the extra charge on my last bill?,billing,high
+517,Sync between devices is not working since the last update.,technical,low
+518,Does your Pro plan include priority support?,general,medium
+519,Do you have a public roadmap for upcoming features?,general,low
+520,"I can't log in, it says 'server error' every time on Desktop.",technical,high
+521,Can you explain the extra charge on my last bill?,billing,medium
+522,Does your Basic plan include priority support?,general,low
+523,The dashboard is loading extremely slowly today.,technical,high
+524,My account got locked after too many login attempts.,account,low
+525,The app keeps crashing when I try to upload a file on Android.,technical,low
+526,I forgot my password and the reset email never arrives.,account,medium
+527,"I can't log in, it says 'server error' every time on Android.",technical,medium
+528,"My invoice for March shows the wrong amount, can you check?",billing,low
+529,I want to delete my account and all my data permanently.,account,high
+530,The dashboard is loading extremely slowly today.,technical,low
+531,I was charged twice for my Basic subscription this month.,billing,low
+532,Does your Enterprise plan include priority support?,general,medium
+533,How do I change the email linked to my account?,account,low
+534,The app keeps crashing when I try to upload a file on Web.,technical,high
+535,Is there a student discount available?,general,low
+536,Sync between devices is not working since the last update.,technical,low
+537,How do I change the email linked to my account?,account,medium
+538,How do I change the email linked to my account?,account,high
+539,Is there a student discount available?,general,high
+540,The dashboard is loading extremely slowly today.,technical,medium
+541,"My invoice for March shows the wrong amount, can you check?",billing,high
+542,"I want a refund for the Team plan, it was charged by mistake.",billing,medium
+543,"I want a refund for the Enterprise plan, it was charged by mistake.",billing,low
+544,Do you have a public roadmap for upcoming features?,general,high
+545,Can I merge two accounts under one email?,account,medium
+546,"I can't log in, it says 'server error' every time on iOS.",technical,medium
+547,I want to delete my account and all my data permanently.,account,low
+548,What are your business hours for support on iOS?,general,low
+549,Does your Team plan include priority support?,general,medium
+550,What are your business hours for support on Web?,general,low
+551,Sync between devices is not working since the last update.,technical,medium
+552,I was charged twice for my Team subscription this month.,billing,low
+553,I forgot my password and the reset email never arrives.,account,medium
+554,What are your business hours for support on Android?,general,low
+555,I forgot my password and the reset email never arrives.,account,medium
+556,Do you have a public roadmap for upcoming features?,general,low
+557,"I love the product, just wanted to say thanks!",general,low
+558,"I love the product, just wanted to say thanks!",general,low
+559,I was charged twice for my Enterprise subscription this month.,billing,high
+560,The dashboard is loading extremely slowly today.,technical,high
+561,Is there a student discount available?,general,low
+562,Can you explain the extra charge on my last bill?,billing,low
+563,"I can't log in, it says 'server error' every time on iOS.",technical,medium
+564,What are your business hours for support on Web?,general,low
+565,I was charged twice for my Team subscription this month.,billing,medium
+566,Can I merge two accounts under one email?,account,low
+567,"I can't log in, it says 'server error' every time on iOS.",technical,high
+568,My account got locked after too many login attempts.,account,medium
+569,Does your Pro plan include priority support?,general,low
+570,Does your Team plan include priority support?,general,low
+571,"I love the product, just wanted to say thanks!",general,medium
+572,I want to delete my account and all my data permanently.,account,high
+573,"I can't log in, it says 'server error' every time on Desktop.",technical,high
+574,I want to delete my account and all my data permanently.,account,low
+575,Sync between devices is not working since the last update.,technical,high
+576,The app keeps crashing when I try to upload a file on Desktop.,technical,low
+577,"My invoice for February shows the wrong amount, can you check?",billing,medium
+578,Does your Enterprise plan include priority support?,general,low
+579,Is there a student discount available?,general,medium
+580,The API is returning a 500 error when I call the /users endpoint.,technical,low
+581,Is there a student discount available?,general,medium
+582,I forgot my password and the reset email never arrives.,account,low
+583,"I can't log in, it says 'server error' every time on Android.",technical,medium
+584,Is there a student discount available?,general,low
+585,"I can't log in, it says 'server error' every time on Web.",technical,high
+586,I want to delete my account and all my data permanently.,account,low
+587,Sync between devices is not working since the last update.,technical,medium
+588,Can you explain the extra charge on my last bill?,billing,medium
+589,The payment failed but money was still deducted from my card.,billing,high
+590,I want to delete my account and all my data permanently.,account,medium
+591,The app keeps crashing when I try to upload a file on Web.,technical,high
+592,The payment failed but money was still deducted from my card.,billing,medium
+593,Can you explain the extra charge on my last bill?,billing,high
+594,"I love the product, just wanted to say thanks!",general,low
+595,What are your business hours for support on Android?,general,high
+596,I forgot my password and the reset email never arrives.,account,medium
+597,My account got locked after too many login attempts.,account,medium
+598,Does your Team plan include priority support?,general,low
+599,The dashboard is loading extremely slowly today.,technical,medium
+600,Does your Pro plan include priority support?,general,low
