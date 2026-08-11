@@ -1,6 +1,5 @@
 """
 deep_learning.py
-
 """
 
 import numpy as np
