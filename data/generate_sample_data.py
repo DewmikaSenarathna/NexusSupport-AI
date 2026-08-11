@@ -1,14 +1,5 @@
 """
 generate_sample_data.py
-------------------------
-Creates a synthetic "customer support tickets" dataset.
-
-WHY THIS EXISTS:
-Every real ML project starts with data. Since we don't have a company's real
-ticket database, we simulate one that looks and behaves like a real one:
-messy text, three categories (billing / technical / general), and a mix of
-urgency levels. This lets every downstream component (classifier, RAG,
-agent) be trained and demoed end-to-end.
 
 Run:
     python data/generate_sample_data.py
