@@ -1,0 +1,2 @@
+Account Management FAQ
+Password reset emails can take up to 10 minutes; check spam folder first. To change your account email, go to Settings > Profile > Email and verify the new address. Account deletion is permanent after a 30-day grace period. Accounts cannot currently be merged automatically; contact support for a manual merge request.
