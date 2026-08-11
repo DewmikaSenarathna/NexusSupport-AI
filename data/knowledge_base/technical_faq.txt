@@ -1,0 +1,2 @@
+Technical Support FAQ
+If the app crashes on upload, first check the file size limit (500MB). Server error 500 on login usually indicates a session token issue; clearing cache resolves it in most cases. Sync issues after an update are resolved by force-closing the app and logging back in. API 500 errors on /users should be reported with the request ID from response headers.
