@@ -147,8 +147,10 @@ activemq-data/
 # SageMath parsed files
 *.sage.py
 
-# Environments
+# Environments and secrets
 .env
+.env.*
+!.env.example
 .envrc
 .venv
 env/
@@ -156,6 +158,26 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Local model artifacts and large binaries
+models/*.joblib
+models/*.pkl
+models/**/*.pt
+models/**/*.bin
+models/**/*.safetensors
+models/**/*.onnx
+*.joblib
+*.pkl
+*.pt
+*.bin
+*.safetensors
+*.onnx
+
+# Local docs and reports
+*.docx
+*.pdf
+*.zip
+*.tar.gz
 
 # Spyder project settings
 .spyderproject
