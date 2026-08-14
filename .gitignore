@@ -174,8 +174,6 @@ models/**/*.onnx
 *.onnx
 
 # Local docs and reports
-*.docx
-*.pdf
 *.zip
 *.tar.gz
 
