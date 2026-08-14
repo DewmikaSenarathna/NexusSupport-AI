@@ -478,13 +478,13 @@ pip install -r requirements.txt
 ### Windows PowerShell
 
 ```powershell
-$env:ANTHROPIC_API_KEY="YOUR_API_KEY"
+$env:GOOGLE_API_KEY="YOUR_API_KEY"
 ```
 
 ### Linux / macOS
 
 ```bash
-export ANTHROPIC_API_KEY="YOUR_API_KEY"
+export GOOGLE_API_KEY="YOUR_API_KEY"
 ```
 
 ---
@@ -715,7 +715,7 @@ Run:
 
 ```bash
 docker run -p 8000:8000 \
-  -e ANTHROPIC_API_KEY=YOUR_API_KEY \
+  -e GOOGLE_API_KEY=YOUR_API_KEY \
   nexussupport-ai
 ```
 
